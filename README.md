@@ -1,9 +1,7 @@
 # ChugalBandi-android-app
 
-it is an android music player app which takes runtime permission to read the internal and external storage for .mp3 files
+This is an Android music player app that requests runtime permissions to read both internal and external storage for .mp3 files. The app collects all the .mp3 files and displays them as a list. 
 
-collects all the mp3 file and displayes them as a list 
+It features essential functionalities such as play, pause, next, previous, and auto-next.
 
-it has play pause , next previous , and auto next functionality 
-
-you can further improve the app by adding repeat , equalizer adn other funcionality
+To enhance the app further, additional functionalities like repeat, equalizer, and more can be 
